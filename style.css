@@ -121,13 +121,13 @@ body {
 @media screen and (min-width: 768px) {
   .top-background {
     padding-top: 38%;
-    background: url(../img/fv.png) top right/cover;
+    background: url(./img/fv.png) top right/cover;
   }
 }
 @media screen and (max-width: 767px) {
   .top-background {
     padding-top: 144.9275362319%;
-    background: url(../img/sp/fv.png) center center/cover;
+    background: url(./img/sp/fv.png) center center/cover;
   }
 }
 
@@ -250,13 +250,13 @@ body {
 }
 @media screen and (max-width: 767px) {
   .shop {
-    background: url(../img/sp/bg-shop.png) center center/cover;
+    background: url(./img/sp/bg-shop.png) center center/cover;
     padding: 80px 0;
   }
 }
 @media screen and (min-width: 768px) {
   .shop {
-    background: url(../img/bg-shop.png) center center/cover;
+    background: url(./img/bg-shop.png) center center/cover;
     padding: 60px 0;
   }
 }
